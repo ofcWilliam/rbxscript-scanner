@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rbxscript-scanner/static/css/main.a854519e.css",
+    "main.js": "/rbxscript-scanner/static/js/main.686a5754.js",
+    "index.html": "/rbxscript-scanner/index.html",
+    "main.a854519e.css.map": "/rbxscript-scanner/static/css/main.a854519e.css.map",
+    "main.686a5754.js.map": "/rbxscript-scanner/static/js/main.686a5754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a854519e.css",
+    "static/js/main.686a5754.js"
+  ]
+}
